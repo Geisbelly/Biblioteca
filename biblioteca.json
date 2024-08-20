@@ -1,0 +1,156 @@
+{
+    "0018": {
+        "titulo": "Cidade do ossos",
+        "autor": "Cassandra Clare",
+        "genero": "Fantasia",
+        "compra": 25.0,
+        "qt": 1
+    },
+    "0019": {
+        "titulo": "Cidade das Cinzas",
+        "autor": "Cassandra Clare",
+        "genero": "Fantasia",
+        "compra": 35.0,
+        "qt": 1
+    },
+    "0020": {
+        "titulo": "Cidade de Vidro",
+        "autor": "Cassandra Clare",
+        "genero": "Fantasia",
+        "compra": 35.0,
+        "qt": 1
+    },
+    "0021": {
+        "titulo": "Cidade dos Anjos Ca\u00eddos",
+        "autor": "Cassandra Clare",
+        "genero": "Fantasia",
+        "compra": 35.0,
+        "qt": 1
+    },
+    "0005": {
+        "titulo": "Anne de Green Gables",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 20.0,
+        "qt": "2"
+    },
+    "0006": {
+        "titulo": "Anne de Avonlea",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0007": {
+        "titulo": "Anne da Ilha",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0008": {
+        "titulo": "Anne de Windy Poplars",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0009": {
+        "titulo": "Anne e a Casa dos Sonhos",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0010": {
+        "titulo": "Anne de Ingleside",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0011": {
+        "titulo": "Vale do Arco-Ir\u00eds",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0012": {
+        "titulo": "Rilla de Ingleside",
+        "autor": "L. M. Montgomery",
+        "genero": "Romance",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0013": {
+        "titulo": "Os Contos dos Blythes - Volume 1",
+        "autor": "L. M. Montgomery",
+        "genero": "Cr\u00f4nica",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0016": {
+        "titulo": "Cr\u00f4nicas de Avonlea",
+        "autor": "L. M. Montgomery",
+        "genero": "Cr\u00f4nica",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0017": {
+        "titulo": "Mais Cr\u00f4nicas de Avonlea",
+        "autor": "L. M. Montgomery",
+        "genero": "Cr\u00f4nica",
+        "compra": 9.0,
+        "qt": 1
+    },
+    "0001": {
+        "titulo": "O Voo do Hipop\u00f3tamo",
+        "autor": "Luiz Antonio Aguiar",
+        "genero": "Romance",
+        "compra": 10.0,
+        "qt": 1
+    },
+    "0002": {
+        "titulo": "Seus Pontos Fracos",
+        "autor": "Wayne W. Dyer",
+        "genero": "Poesia",
+        "compra": 10.0,
+        "qt": 1
+    },
+    "0003": {
+        "titulo": "Zetsuen no Tempest - O Destruidor da Civiliza\u00e7\u00e3o - Volume 1",
+        "autor": "Kyo Shirodaira",
+        "genero": "Mang\u00e1",
+        "compra": 15.0,
+        "qt": 1
+    },
+    "0022": {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "genero": "Romance",
+        "compra": 20.0,
+        "qt": 1
+    },
+    "0023": {
+        "titulo": "Ed e Lorraine Warren - Lugar Sombrio ( Arquivos Sobrenaturais )",
+        "autor": "Carmen Reed Al Snedeker e Ray Garton",
+        "genero": "Terro",
+        "compra": 30.0,
+        "qt": 1
+    },
+    "0024": {
+        "titulo": "Biblioteca da Meia Noite",
+        "autor": "Matt Haig",
+        "genero": "Fic\u00e7\u00e3o",
+        "compra": 20.0,
+        "qt": 1
+    },
+    "0025": {
+        "titulo": "Em Fogo Lento",
+        "autor": "Paula Hawkins",
+        "genero": "Fic\u00e7\u00e3o",
+        "compra": 20.0,
+        "qt": 1
+    }
+}
